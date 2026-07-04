@@ -51,6 +51,3 @@ def obter_conexao():
         password="sua_senha",
         database="sua_database"
     )
-
-### 3.Execução
-streamlit run main.py
